@@ -1,0 +1,14 @@
+# Update the packgaes as required
+# 'sanic' package is needed for Sanic server
+# 'psutil' is needed for logging CPU and Memory usage
+# 'httpx' package is required for ASGI request service
+# 'requests' is required for HTTP requests
+# 'pydantic' is needed for data validation library
+
+
+sanic
+httpx
+psutil
+requests
+pydantic
+
