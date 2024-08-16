@@ -220,7 +220,7 @@ rm -rf sanic
 
 python3 -m venv sanic
 
-source fastapi/bin/activate
+source sanic/bin/activate
 
 pip install --upgrade pip setuptools
 
